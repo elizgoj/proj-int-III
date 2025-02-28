@@ -1,2 +1,2 @@
 # proj-int-III
-Projeto Integrador 3 PUC Capinas
+Projeto Integrador III - PUC CAMPINAS Equipe_T02_05
